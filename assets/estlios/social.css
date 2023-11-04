@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+::-webkit-scrollbar{
+    width: 0;
+    height: 0;
+}
+body{
+    width: 95vw;
+    height: 100vh;
+    overflow-x: hidden;
+}
+img{
+    width: 100vw;
+
+}
+a{
+    display: block;
+    text-decoration: none;
+    padding: 20px;
+    font-weight: bolder;
+    text-align: center;
+    background-color: brown;
+    width: 100vw;
+    color: white;
+    margin-top: -4px;
+    margin-left: -19px;
+}
