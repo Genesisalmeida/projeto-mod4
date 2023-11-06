@@ -22,9 +22,20 @@ a{
     padding: 20px;
     font-weight: bolder;
     text-align: center;
-    background-color: brown;
+    background-color: #a52a2a;
     width: 100vw;
-    color: white;
+    color: #ffffff;
     margin-top: -4px;
     margin-left: -19px;
+}
+#rodaPe-face{
+    background-color: #0000ff;
+}
+
+#rodaPe-instra{
+    background-color: #EA5D5F;
+}
+
+#rodaPe-git{
+    background-color: #309F4B;
 }
