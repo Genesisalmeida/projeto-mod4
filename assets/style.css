@@ -8,9 +8,10 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     overflow: hidden;
+   
 }
 main{
-    height: 98vh;
+    height: 100vh;
     display: flex;
     flex-direction: row;
     position: relative;
@@ -22,7 +23,7 @@ section,#phone{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    height: 600px; ;
+    height: 630px; ;
     width: 320px;
 }
 section,#frame{
